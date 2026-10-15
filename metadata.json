@@ -1,0 +1,6 @@
+{
+  "name": "Hairport Salon Jalandhar",
+  "description": "Hairport Salon Jalandhar - Premier luxury beauty parlour and salon in Friends Colony, Jalandhar. Expert bridal makeup, facials, balayage & hair spa, Brazilian waxing, and online appointment booking. Rated 4.9★.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
